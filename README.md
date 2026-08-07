@@ -34,7 +34,7 @@ No official handler existed for this game at the time of writing (it's a very ne
 1. Download the latest `.zip` from this repo's [Releases](../../releases) page.
 2. Extract it directly into your Nucleus Co-op `handlers` folder, so you end up with:
    ```
-   NucleusApp\handlers\handler.js
+   NucleusApp\handlers\WaterparkSimulator.js
    NucleusApp\handlers\WaterparkSimulator\...
    ```
 3. Open Nucleus Co-op, click the **Search and add a game** icon (magnifying glass, top toolbar).
